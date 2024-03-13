@@ -26,7 +26,7 @@
 }
 
 .bg6{
-    background:url(../img/bg5.jpg) left top no-repeat;
+    background:black;
     background-size:cover;
 
 }
@@ -36,6 +36,11 @@
     padding-top: 20px;
     padding-bottom: 5px;
     background-size: cover;
+}
+
+.mainform{
+    background: white;
+    background-size: 100% 100%;
 }
 
 
